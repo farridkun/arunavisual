@@ -545,7 +545,7 @@ footer .container-fluid{margin: 0 30px;}
 /* 08 - PORTFOLIO DETAIL */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 .banner-shortcode{background-size: cover; background-position: center center; position: relative;}
-.banner-shortcode:before{position: absolute; left: 0; top: 0; width: 100%; height: 100%; content: ""; background: rgba(0,0,0,.25);}
+.banner-shortcode:before{position: absolute; left: 0; top: 0; width: 100%; height: 100%; content: "";}
 .banner-shortcode .align{height: 750px; display: table-cell; vertical-align: middle; text-align: center; width: 10000px; padding: 90px 0 110px 0;}
 .banner-shortcode .banner-frame{border-style: inset; border-width: 25px; position: absolute; width: 560px; height: 425px; left: 50%; top: 50%; margin: -212px 0 0 -280px;}
 /*Phones (<768px)*/
