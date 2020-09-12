@@ -47,12 +47,12 @@ blockquote:before, blockquote:after, q:before, q:after {content: ''; content: no
 body *{-webkit-text-size-adjust:none; outline: none;}
 .clear{clear:both; overflow:hidden; height:0px; font-size:0px; display: block;}
 input:focus, select:focus, textarea:focus, button:focus {outline: none;}
-input, textarea, select{font-family: 'Playfair Display', serif; font-weight: 400; -webkit-appearance: none; appearance: none; border-radius: 0; background: none; border: none; margin: 0; width: 100%;}
+input, textarea, select{font-family: 'Raleway', serif; font-weight: 400; -webkit-appearance: none; appearance: none; border-radius: 0; background: none; border: none; margin: 0; width: 100%;}
 textarea{display: block; resize: none; overflow: auto;}
 select::-ms-expand{display: none;}
 input[type="submit"], input[type="file"]{position: absolute; left: 0; top: 0; width:100%; height:100%; opacity:0; border:none; cursor:pointer; z-index: 1;}
 a, a:link, a:visited, a:active, a:hover{cursor: pointer; text-decoration: none; outline: none;}
-body{font-family: 'Playfair Display', serif; font-weight: 400; font-size: 14px; line-height: 1;}
+body{font-family: 'Raleway', serif; font-weight: 400; font-size: 14px; line-height: 1;}
 b, strong{font-weight: 700;}
 ul, ol{list-style: none;}
 a{color: inherit;}
@@ -151,7 +151,7 @@ body.mobile .fixed-background{background-attachment: scroll;}
 .sa ul li{padding-bottom: 4px; padding-top: 4px; position: relative;}
 .sa ul li:before{content: ""; width: 17px; height: 13px; display: inline-block; vertical-align: middle; background: url(../img/icon-20.png); position: relative; margin-right: 12px;}
 
-.sa h1, .h1, .sa h2, .h2, .sa h3, .h3, .sa h4, .h4, .sa h5, .h5, .sa h6, .h6{color: #000; font-weight: 900; font-family: 'Playfair Display', serif;}
+.sa h1, .h1, .sa h2, .h2, .sa h3, .h3, .sa h4, .h4, .sa h5, .h5, .sa h6, .h6{color: #000; font-weight: 900; font-family: 'Raleway', serif;}
 .sa.light h1, .sa.light .h1, .h1.light, .sa.light h2, .sa.light .h2, .h2.light, .sa.light h3, .sa.light .h3, .h3.light, .sa.light h4, .sa.light .h4, .h4.light, .sa.light h5, .sa.light .h5, .h5.light, .sa.light h6, .sa.light .h6, .h6.light{color: #fff;}
 .sa h1 a, .h1 a, .sa h2 a, .h2 a, .sa h3 a, .h3 a, .sa h4 a, .h4 a, .sa h5 a, .h5 a, .sa h6 a, .h6 a{color: #000!important;}
 .sa.light h1 a, .h1.light a, .sa.light h2 a, .h2.light a, .sa.light h3 a, .h3.light a, .sa.light h4 a, .h4.light a, .sa.light h5 a, .h5.light a, .sa.light h6 a, .h6.light a{color: #fff!important;}
@@ -656,7 +656,7 @@ a:hover .portfolio-hover-2{opacity: 1; transition: all .5s; -webkit-transition: 
 .portfolio-preview-2 .top-icon:before{width: 100%; height: 1px; position: absolute; left: 0; top: 24px; content: ""; background: #d9d9d9;}
 .portfolio-preview-2 .top-icon:after{width: 1px; height: 100%; position: absolute; left: 24px; top: 0; content: ""; background: #d9d9d9;}
 /**/
-.sorting-menu{font-size: 0; margin: 0 -18px; font-family: 'Playfair Display', serif;}
+.sorting-menu{font-size: 0; margin: 0 -18px; font-family: 'Raleway', serif;}
 .sorting-menu .title{font-size: 18px; line-height: 40px; font-weight: 900; color: #000; text-align: center; border-bottom: 1px #000 solid; cursor: pointer; padding: 0 30px; display: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
 .sorting-menu .title:after{width: 10px; height: 10px; border-right: 1px #000 solid; border-bottom: 1px #000 solid; content: ""; position: absolute; right: 24px; top: 14px; transform: rotate(45deg); -webkit-transform: rotate(45deg);}
 .sorting-menu .title.active:after{transform: rotate(-135deg); -webkit-transform: rotate(-135deg);}
